@@ -10,7 +10,8 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
  - [Themes - Fullscreen mode](#themes---fullscreen-mode)
 
 ## Libraries
-### [Official Playnite forums](https://playnite.link/forum/forum-7.html)
+[Official Playnite forums](https://playnite.link/forum/forum-7.html)
+
 | Name | Author | Description |
 |:-----|:------:|:------------|
 | [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin) | [Lacro59](https://github.com/Lacro59) | The plugin "IndiegalaLibrary" get game library from Indiegala in Showcase, Bunlde & Store. |
@@ -18,7 +19,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Rockstar Library](https://github.com/JosefNemec/PlaynitePlugin-RockstarLibrary) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that automatically imports games from Rockstar Games launcher.
 
 ## Metadata
-### [Official Playnite forums](https://playnite.link/forum/forum-17.html)
+[Official Playnite forums](https://playnite.link/forum/forum-17.html)
 
 | Name | Author | Description |
 |:-----|:------:|:------------|
@@ -31,7 +32,8 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [VNDB](https://github.com/Mithnar/PlayniteVndb) | [Mithnar](https://github.com/Mithnar) |
 
 ## Generic
-### [Official Playnite forums](https://playnite.link/forum/forum-6.html)
+[Official Playnite forums](https://playnite.link/forum/forum-6.html)
+
 | Name | Author | Description |
 |:-----|:------:|:------------|
 | [Extensions Updater](https://github.com/erri120/Playnite.Extensions#extensions-updater) | [erri120](https://github.com/erri120) | This is a generic plugin which can check if your extension needs an update.
@@ -48,7 +50,8 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin get the game achievements in application. |
 
 ## Themes - Desktop mode
-### [Official Playnite forums](https://playnite.link/forum/forum-8.html)
+[Official Playnite forums](https://playnite.link/forum/forum-8.html)
+
 | Name | Author | Description | Screenshot |
 |:-----|:------:|:------------|:----------:|
 | [Blupur](https://github.com/sevenns/Playnite-Blupur-Theme) | [sevenns](https://github.com/sevenns) | | ![Blupur screenshot](https://raw.githubusercontent.com/sevenns/Playnite-Blupur-Theme/master/Desktop/Blupur/preview.jpg)
@@ -59,7 +62,8 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [XBOX Library](https://playnite.link/forum/thread-312.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Playnite Desktop theme based on the XBOX One 'My Games & Apps' Library | ![XBOX Library Theme screenshot](res/XboxLibrary.jpg)
 
 ## Themes - Fullscreen mode
-### [Official Playnite forums](https://playnite.link/forum/forum-12.html)
+[Official Playnite forums](https://playnite.link/forum/forum-12.html)
+
 | Name | Author | Description | Screenshot |
 |:-----|:------:|:------------|:----------:|
 | [Aurora](https://playnite.link/forum/thread-255.html) | [geraintthomas](https://playnite.link/forum/user-1060.html) | A clean and modern variant of the original theme with white highlights. | ![Aurora screenshot](res/Aurora.png)
