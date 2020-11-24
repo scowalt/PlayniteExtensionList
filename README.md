@@ -35,6 +35,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 |:-----|:------:|:------------|:----------:|
 | [SteamNite](https://github.com/Deytron/SteamNite) | [Deytron](https://github.com/Deytron) | A custom theme that mimics the Steam client's look for Playnite | ![](https://camo.githubusercontent.com/764187708b3494b8c57e159da917a139d2734455b87c1f881f8ec5eb2788eff4/68747470733a2f2f692e696d6775722e636f6d2f586232507177372e706e67)
 | [XBOX Series Theme](https://playnite.link/forum/thread-397.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Based on the new XBOX dashboard for the Series S\|X | ![XBOX Series Theme screenshot](res/XboxSeriesTheme.jpg)
+| [XBOX Library](https://playnite.link/forum/thread-312.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Playnite Desktop theme based on the XBOX One 'My Games & Apps' Library | ![XBOX Library Theme screenshot](res/XboxLibrary.jpg)
 
 # Disclaimer
 
