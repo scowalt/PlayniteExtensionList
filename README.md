@@ -33,6 +33,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin get the game achievements in application. |
 | [GameActivity](https://github.com/Lacro59/playnite-gameactivity-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin create datas from game activy.
 | [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin get How Long To Beat in application database. |
+| [Statistics](https://github.com/Lacro59/playnite-statistics-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin shows many statistics information from application database. |
 | [Import Installed Discord Games](https://gist.github.com/bburky/43e666b2f6bb6db4c42b5ecd93f7af38) | [bburky](https://gist.github.com/bburky) | |
 | [Is There Any Deal Collection Sync](https://gist.github.com/bburky/38c29a5fd8fbf2fc72ef77d553d09c6a) | [bburky](https://gist.github.com/bburky) | |
 | [Non-Steam Shortcut Extension](https://github.com/bburky/playnite-non-steam-shortcuts) | [bburky](https://github.com/bburky) | This extension will automatically creates non-Steam shortcuts for the currently selected games in Playnite. |
