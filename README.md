@@ -46,7 +46,6 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Non-Steam Shortcut Extension](https://github.com/bburky/playnite-non-steam-shortcuts) | [bburky](https://github.com/bburky) | This extension will automatically creates non-Steam shortcuts for the currently selected games in Playnite. |
 | [Playnite Sounds](https://github.com/joyrider3774/PlayniteSound) | [joyrider3774](https://github.com/joyrider3774) | Playnite Sounds is an extension to play audio files during Playnite events. It can only play WAV audio files and nothing else.
 | [Screenshot Plugin](https://github.com/erri120/Playnite.Extensions#screenshot-plugin) | [erri120](https://github.com/erri120) | Plugin made using parts of the ShareX ScreenCaptureLib. This little plugin will capture different region on when pressing a hotkey.
-| [Statistics](https://github.com/Lacro59/playnite-statistics-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin shows many statistics information from application database. |
 | [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin get the game achievements in application. |
 
 ## Themes - Desktop mode
