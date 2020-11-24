@@ -30,14 +30,18 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Screenshot Plugin](https://github.com/erri120/Playnite.Extensions#screenshot-plugin) | [erri120](https://github.com/erri120) | Plugin made using parts of the ShareX ScreenCaptureLib. This little plugin will capture different region on when pressing a hotkey.
 | [Playnite Sounds](https://github.com/joyrider3774/PlayniteSound) | [joyrider3774](https://github.com/joyrider3774) | Playnite Sounds is an extension to play audio files during Playnite events. It can only play WAV audio files and nothing else.
 
-## Themes
+## Themes - Desktop mode
 | Name | Author | Description | Screenshot |
 |:-----|:------:|:------------|:----------:|
 | [SteamNite](https://github.com/Deytron/SteamNite) | [Deytron](https://github.com/Deytron) | A custom theme that mimics the Steam client's look for Playnite | ![](https://camo.githubusercontent.com/764187708b3494b8c57e159da917a139d2734455b87c1f881f8ec5eb2788eff4/68747470733a2f2f692e696d6775722e636f6d2f586232507177372e706e67)
-| [XBOX Series Theme](https://playnite.link/forum/thread-397.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Based on the new XBOX dashboard for the Series S\|X | ![XBOX Series Theme screenshot](res/XboxSeriesTheme.jpg)
 | [XBOX Library](https://playnite.link/forum/thread-312.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Playnite Desktop theme based on the XBOX One 'My Games & Apps' Library | ![XBOX Library Theme screenshot](res/XboxLibrary.jpg)
 | [Harmony](https://github.com/darklinkpower/Harmony) | [darklinkpower](https://github.com/darklinkpower) | Clean theme with modern design for Playnite Desktop Mode | ![Harmony info](https://camo.githubusercontent.com/7a9cf50922f163b0e352a068b3985c1836fc6c61350b5e92fa87b8ddb41cb47f/68747470733a2f2f692e696d6775722e636f6d2f79645a6b4b79412e6a7067)
 | [eMixedNite](https://playnite.link/forum/thread-337.html) | [eminaguil](https://playnite.link/forum/user-725.html) | | ![eMixedNite Animated Screenshots](res/eMixedNite.gif)
+
+## Themes - Fullscreen mode
+| Name | Author | Description | Screenshot |
+|:-----|:------:|:------------|:----------:|
+| [XBOX Series Theme](https://playnite.link/forum/thread-397.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Based on the new XBOX dashboard for the Series S\|X | ![XBOX Series Theme screenshot](res/XboxSeriesTheme.jpg) |
 
 # Disclaimer
 
