@@ -15,6 +15,7 @@ List of Playnite Extensions and Themes. A placeholder until there is a [more rob
 | [SteamGridbDB Metadata](https://github.com/cooperate/SteamGridDBMetadata) | [cooperate](https://github.com/cooperate) | SteamGridDB Metadata is a provider for Playnite that leverages the SteamGridDB api to curate your artwork. |
 | [Launchbox Metadata](https://github.com/spektor56/LBGDBPlaynitePlugin) | [spektor56](https://github.com/spektor56) |
 | [EmuMovies Metadata](https://github.com/spektor56/EmuMoviesPlaynitePlugin) | [spektor56](https://github.com/spektor56) |
+| [VNDB](https://github.com/Mithnar/PlayniteVndb) | [Mithnar](https://github.com/Mithnar) |
 
 ## Generic
 | Name | Author | Description |
