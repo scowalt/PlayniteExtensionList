@@ -37,6 +37,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [XBOX Series Theme](https://playnite.link/forum/thread-397.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Based on the new XBOX dashboard for the Series S\|X | ![XBOX Series Theme screenshot](res/XboxSeriesTheme.jpg)
 | [XBOX Library](https://playnite.link/forum/thread-312.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Playnite Desktop theme based on the XBOX One 'My Games & Apps' Library | ![XBOX Library Theme screenshot](res/XboxLibrary.jpg)
 | [Harmony](https://github.com/darklinkpower/Harmony) | [darklinkpower](https://github.com/darklinkpower) | Clean theme with modern design for Playnite Desktop Mode | ![Harmony info](https://camo.githubusercontent.com/7a9cf50922f163b0e352a068b3985c1836fc6c61350b5e92fa87b8ddb41cb47f/68747470733a2f2f692e696d6775722e636f6d2f79645a6b4b79412e6a7067)
+| [eMixedNite](https://playnite.link/forum/thread-337.html) | [eminaguil](https://playnite.link/forum/user-725.html) | | ![eMixedNite Animated Screenshots](res/eMixedNite.gif)
 
 # Disclaimer
 
