@@ -9,7 +9,8 @@ List of Playnite Extensions and Themes. A placeholder until there is a [more rob
 # Metadata
 | Name                                                                                                  | Author                                      | Description  |
 |:------------------------------------------------------------------------------------------------------|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Steam Store Metadata](https://github.com/JosefNemec/PlaynitePlugin-SteamStoreMetadata)               | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that gives you an option to download game information from Steam store even for games that are not imported from Steam. |
+| [Steam Store Metadata](https://github.com/JosefNemec/PlaynitePlugin-SteamStoreMetadata)               | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that gives you an option to download game information from Steam store even for games that are not imported from Steam.                                  |
+| [RAWG Metadata plugin](https://github.com/spektor56/RAWGPlaynitePlugin)                               | [spektor56](https://github.com/spektor56) |                                                                                                                                                   |
 
 # Generic
 | Name                                                                                                  | Author                                     | Description  |
