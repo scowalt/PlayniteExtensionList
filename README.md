@@ -1,6 +1,14 @@
 # Playnite Extension List
 List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder until there is a [more robust solution](https://github.com/JosefNemec/Playnite/issues/593). Please help expand this list by [contributing](https://github.com/scowalt/PlayniteExtensionList/pulls)!
 
+## Contents
+
+ - [Libraries](#libraries)
+ - [Metadata](#metadata)
+ - [Generic](#generic)
+ - [Themes - Desktop mode](#themes---desktop-mode)
+ - [Themes - Fullscreen mode](#themes---fullscreen-mode)
+
 ## Libraries
 | Name | Author | Description |
 |:-----|:------:|:------------|
