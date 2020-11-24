@@ -28,6 +28,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Get Steam Cover Images](https://gist.github.com/bburky/464543d4c6662c66ad6088d06ced50ce) | [bburky](https://gist.github.com/bburky) | Replaces the cover image of the selected games with the Steam header image for the game. |
 | [Extensions Updater](https://github.com/erri120/Playnite.Extensions#extensions-updater) | [erri120](https://github.com/erri120) | This is a generic plugin which can check if your extension needs an update.
 | [Screenshot Plugin](https://github.com/erri120/Playnite.Extensions#screenshot-plugin) | [erri120](https://github.com/erri120) | Plugin made using parts of the ShareX ScreenCaptureLib. This little plugin will capture different region on when pressing a hotkey.
+| [Playnite Sounds](https://github.com/joyrider3774/PlayniteSound) | [joyrider3774](https://github.com/joyrider3774) | Playnite Sounds is an extension to play audio files during Playnite events. It can only play WAV audio files and nothing else.
 
 ## Themes
 | Name | Author | Description |
