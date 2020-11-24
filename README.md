@@ -6,6 +6,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 |:-----|:------:|:------------|
 | [Oculus Library](https://github.com/Shawson/Playnite-OculusLibrary) | [Shawson](https://github.com/Shawson) | Plugin for Playnite to add support for importing games from the Oculus store. |
 | [Rockstar Library](https://github.com/JosefNemec/PlaynitePlugin-RockstarLibrary) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that automatically imports games from Rockstar Games launcher.
+| [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin) | [Lacro59](https://github.com/Lacro59) | The plugin "IndiegalaLibrary" get game library from Indiegala in Showcase, Bunlde & Store. |
 
 ## Metadata
 | Name | Author | Description |
