@@ -1,10 +1,11 @@
 # Playnite Extension List
-List of Playnite Extensions and Themes. A placeholder until there is a [more robust solution](https://github.com/JosefNemec/Playnite/issues/593). Please help expand this list by [contributing](https://github.com/scowalt/PlayniteExtensionList/pulls)!
+List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder until there is a [more robust solution](https://github.com/JosefNemec/Playnite/issues/593). Please help expand this list by [contributing](https://github.com/scowalt/PlayniteExtensionList/pulls)!
 
 ## Libraries
 | Name | Author | Description |
 |:-----|:------:|:------------|
 | [Oculus Library](https://github.com/Shawson/Playnite-OculusLibrary) | [Shawson](https://github.com/Shawson) | Plugin for Playnite to add support for importing games from the Oculus store. |
+| [Rockstar Library](https://github.com/JosefNemec/PlaynitePlugin-RockstarLibrary) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that automatically imports games from Rockstar Games launcher.
 
 ## Metadata
 | Name | Author | Description |
