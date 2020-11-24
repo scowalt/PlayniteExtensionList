@@ -43,6 +43,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 |:-----|:------:|:------------|:----------:|
 | [XBOX Series Theme](https://playnite.link/forum/thread-397.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Based on the new XBOX dashboard for the Series S\|X | ![XBOX Series Theme screenshot](res/XboxSeriesTheme.jpg) |
 | [SwitchNite](https://github.com/Deytron/SwitchNite) | [Deytron](https://github.com/Deytron) | A Playnite theme that mimics the Switch's interface. | ![SiwtchNite screenshot](https://camo.githubusercontent.com/e047cde43af67779215839f595cf31e38d9593bce3e05cf7eee80897209b363c/68747470733a2f2f692e696d6775722e636f6d2f776f51627270762e706e67)
+| [Orbis](https://gitlab.com/xyifer12/orbis-playnite-theme) | [Xyifer12](https://gitlab.com/xyifer12) | A theme for Playnite that aims to replicate the PS4 UI. | ![Orbis screenshot](https://cdn.discordapp.com/attachments/403841633310867456/683388764797534271/1.png)
 
 # Disclaimer
 
