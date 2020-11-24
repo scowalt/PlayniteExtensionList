@@ -45,6 +45,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [XBOX Library](https://playnite.link/forum/thread-312.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Playnite Desktop theme based on the XBOX One 'My Games & Apps' Library | ![XBOX Library Theme screenshot](res/XboxLibrary.jpg)
 | [Harmony](https://github.com/darklinkpower/Harmony) | [darklinkpower](https://github.com/darklinkpower) | Clean theme with modern design for Playnite Desktop Mode | ![Harmony info](https://camo.githubusercontent.com/7a9cf50922f163b0e352a068b3985c1836fc6c61350b5e92fa87b8ddb41cb47f/68747470733a2f2f692e696d6775722e636f6d2f79645a6b4b79412e6a7067)
 | [eMixedNite](https://playnite.link/forum/thread-337.html) | [eminaguil](https://playnite.link/forum/user-725.html) | | ![eMixedNite Animated Screenshots](res/eMixedNite.gif)
+| [Blupur](https://github.com/sevenns/Playnite-Blupur-Theme) | [sevenns](https://github.com/sevenns) | | ![Blupur screenshot](https://raw.githubusercontent.com/sevenns/Playnite-Blupur-Theme/master/Desktop/Blupur/preview.jpg)
 
 ## Themes - Fullscreen mode
 | Name | Author | Description | Screenshot |
@@ -54,7 +55,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Orbis](https://gitlab.com/xyifer12/orbis-playnite-theme) | [Xyifer12](https://gitlab.com/xyifer12) | A theme for Playnite that aims to replicate the PS4 UI. | ![Orbis screenshot](https://cdn.discordapp.com/attachments/403841633310867456/683388764797534271/1.png)
 | [XBOX One Theme](https://playnite.link/forum/thread-325.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Playnite Fullscreen theme based on the XBOX One 'My Games & Apps' dashboard | ![XBOX One Theme screenshot](res/XboxOneTheme.jpg) |
 | [Aurora](https://playnite.link/forum/thread-255.html) | [geraintthomas](https://playnite.link/forum/user-1060.html) | A clean and modern variant of the original theme with white highlights. | ![Aurora screenshot](res/Aurora.png)
-| [Blupur](https://github.com/sevenns/Playnite-Blupur-Theme) | [sevenns](https://github.com/sevenns) | | ![Blupur screenshot](https://raw.githubusercontent.com/sevenns/Playnite-Blupur-Theme/master/Desktop/Blupur/preview.jpg)
+| [Blupur](https://github.com/sevenns/Playnite-Blupur-Theme) | [sevenns](https://github.com/sevenns) | | ![Blupur screenshot](https://raw.githubusercontent.com/sevenns/Playnite-Blupur-Theme/master/Fullscreen/Blupur/preview.jpg)
 
 # Disclaimer
 
