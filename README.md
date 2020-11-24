@@ -54,6 +54,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Orbis](https://gitlab.com/xyifer12/orbis-playnite-theme) | [Xyifer12](https://gitlab.com/xyifer12) | A theme for Playnite that aims to replicate the PS4 UI. | ![Orbis screenshot](https://cdn.discordapp.com/attachments/403841633310867456/683388764797534271/1.png)
 | [XBOX One Theme](https://playnite.link/forum/thread-325.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Playnite Fullscreen theme based on the XBOX One 'My Games & Apps' dashboard | ![XBOX One Theme screenshot](res/XboxOneTheme.jpg) |
 | [Aurora](https://playnite.link/forum/thread-255.html) | [geraintthomas](https://playnite.link/forum/user-1060.html) | A clean and modern variant of the original theme with white highlights. | ![Aurora screenshot](res/Aurora.png)
+| [Blupur](https://github.com/sevenns/Playnite-Blupur-Theme) | [sevenns](https://github.com/sevenns) | | ![Blupur screenshot](https://raw.githubusercontent.com/sevenns/Playnite-Blupur-Theme/master/Desktop/Blupur/preview.jpg)
 
 # Disclaimer
 
