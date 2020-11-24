@@ -10,6 +10,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
  - [Themes - Fullscreen mode](#themes---fullscreen-mode)
 
 ## Libraries
+### [Official Playnite forums](https://playnite.link/forum/forum-7.html)
 | Name | Author | Description |
 |:-----|:------:|:------------|
 | [Oculus Library](https://github.com/Shawson/Playnite-OculusLibrary) | [Shawson](https://github.com/Shawson) | Plugin for Playnite to add support for importing games from the Oculus store. |
@@ -17,6 +18,8 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin) | [Lacro59](https://github.com/Lacro59) | The plugin "IndiegalaLibrary" get game library from Indiegala in Showcase, Bunlde & Store. |
 
 ## Metadata
+### [Official Playnite forums](https://playnite.link/forum/forum-17.html)
+
 | Name | Author | Description |
 |:-----|:------:|:------------|
 | [Steam Store Metadata](https://github.com/JosefNemec/PlaynitePlugin-SteamStoreMetadata) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that gives you an option to download game information from Steam store even for games that are not imported from Steam. |
@@ -28,6 +31,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [VNDB](https://github.com/Mithnar/PlayniteVndb) | [Mithnar](https://github.com/Mithnar) |
 
 ## Generic
+### [Official Playnite forums](https://playnite.link/forum/forum-6.html)
 | Name | Author | Description |
 |:-----|:------:|:------------|
 | [SuccessStory](https://github.com/Lacro59/playnite-successstory-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin get the game achievements in application. |
@@ -44,6 +48,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Playnite Sounds](https://github.com/joyrider3774/PlayniteSound) | [joyrider3774](https://github.com/joyrider3774) | Playnite Sounds is an extension to play audio files during Playnite events. It can only play WAV audio files and nothing else.
 
 ## Themes - Desktop mode
+### [Official Playnite forums](https://playnite.link/forum/forum-8.html)
 | Name | Author | Description | Screenshot |
 |:-----|:------:|:------------|:----------:|
 | [SteamNite](https://github.com/Deytron/SteamNite) | [Deytron](https://github.com/Deytron) | A custom theme that mimics the Steam client's look for Playnite | ![](https://camo.githubusercontent.com/764187708b3494b8c57e159da917a139d2734455b87c1f881f8ec5eb2788eff4/68747470733a2f2f692e696d6775722e636f6d2f586232507177372e706e67)
@@ -54,6 +59,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Enhanced Grid View 2.0](https://playnite.link/forum/thread-311.html) | [Cromi](https://playnite.link/forum/user-1612.html) | | ![Enhance Grid View Screenshot](res/EnhancedGridView.jpg)
 
 ## Themes - Fullscreen mode
+### [Official Playnite forums](https://playnite.link/forum/forum-12.html)
 | Name | Author | Description | Screenshot |
 |:-----|:------:|:------------|:----------:|
 | [XBOX Series Theme](https://playnite.link/forum/thread-397.html) | [kersalmassive](https://playnite.link/forum/user-1606.html) | Based on the new XBOX dashboard for the Series S\|X | ![XBOX Series Theme screenshot](res/XboxSeriesTheme.jpg) |
