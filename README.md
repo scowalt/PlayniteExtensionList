@@ -55,6 +55,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | Name | Author | Description | Screenshot |
 |:-----|:------:|:------------|:----------:|
 | [Blupur](https://github.com/sevenns/Playnite-Blupur-Theme) | [sevenns](https://github.com/sevenns) | | ![Blupur screenshot](https://raw.githubusercontent.com/sevenns/Playnite-Blupur-Theme/master/Desktop/Blupur/preview.jpg)
+| [Classic Steam](https://playnite.link/forum/thread-299-post-1888.html) | [Xyifer12](https://gitlab.com/xyifer12) | A theme I built for myself because I like an older version of the Steam layout. | ![Classic Steam Screenshot](res/ClassicSteam.png)
 | [eMixedNite](https://playnite.link/forum/thread-337.html) | [eminaguil](https://playnite.link/forum/user-725.html) | | ![eMixedNite Animated Screenshots](res/eMixedNite.gif)
 | [Enhanced Grid View 2.0](https://playnite.link/forum/thread-311.html) | [Cromi](https://playnite.link/forum/user-1612.html) | | ![Enhance Grid View Screenshot](res/EnhancedGridView.jpg)
 | [Harmony](https://github.com/darklinkpower/Harmony) | [darklinkpower](https://github.com/darklinkpower) | Clean theme with modern design for Playnite Desktop Mode | ![Harmony info](https://camo.githubusercontent.com/7a9cf50922f163b0e352a068b3985c1836fc6c61350b5e92fa87b8ddb41cb47f/68747470733a2f2f692e696d6775722e636f6d2f79645a6b4b79412e6a7067)
