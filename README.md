@@ -12,23 +12,23 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 ## Libraries
 [Official Playnite forums](https://playnite.link/forum/forum-7.html)
 
-| Name | Author | Description |
-|:-----|:------:|:------------|
-| [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin) | [Lacro59](https://github.com/Lacro59) | The plugin "IndiegalaLibrary" get games library from Indiegala in Showcase, Bundles & Store. |
-| [Oculus](https://github.com/Shawson/Playnite-OculusLibrary) | [Shawson](https://github.com/Shawson) | Plugin for Playnite to add support for importing games from the Oculus store. |
-| [Rockstar](https://github.com/JosefNemec/PlaynitePlugin-RockstarLibrary) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that automatically imports games from Rockstar Games launcher.
+| Name | Author | Activity | Description |
+|:-----|:------:|:---------|:------------|
+| [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin) | [Lacro59](https://github.com/Lacro59) | ![Github Last Commit](https://img.shields.io/github/last-commit/Lacro59/playnite-indiegala-plugin) | The plugin "IndiegalaLibrary" get games library from Indiegala in Showcase, Bundles & Store. |
+| [Oculus](https://github.com/Shawson/Playnite-OculusLibrary) | [Shawson](https://github.com/Shawson) | ![Github Last Commit](https://img.shields.io/github/last-commit/Shawson/Playnite-OculusLibrary) | Plugin for Playnite to add support for importing games from the Oculus store. |
+| [Rockstar](https://github.com/JosefNemec/PlaynitePlugin-RockstarLibrary) | [JosefNemec](https://github.com/JosefNemec) | ![Github Last Commit](https://img.shields.io/github/last-commit/JosefNemec/PlaynitePlugin-RockstarLibrary) | This is a Playnite plugin that automatically imports games from Rockstar Games launcher.
 
 ## Metadata
 [Official Playnite forums](https://playnite.link/forum/forum-17.html)
 
-| Name | Author | Description |
-|:-----|:------:|:------------|
-| [EmuMovies](https://github.com/spektor56/EmuMoviesPlaynitePlugin) | [spektor56](https://github.com/spektor56) |
-| [Launchbox](https://github.com/spektor56/LBGDBPlaynitePlugin) | [spektor56](https://github.com/spektor56) |
-| [Metadatalocal](https://github.com/Lacro59/playnite-metadatalocal-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin gets localised game description from Steam, Origin, Epic Game Store & Windows Store. |
+| Name | Author | Activity | Description |
+|:-----|:------:|:---------|:------------|
+| [EmuMovies](https://github.com/spektor56/EmuMoviesPlaynitePlugin) | [spektor56](https://github.com/spektor56) | |
+| [Launchbox](https://github.com/spektor56/LBGDBPlaynitePlugin) | [spektor56](https://github.com/spektor56) | |
+| [Metadatalocal](https://github.com/Lacro59/playnite-metadatalocal-plugin) | [Lacro59](https://github.com/Lacro59) | | This plugin gets localised game description from Steam, Origin, Epic Game Store & Windows Store. |
 | [RAWG](https://github.com/spektor56/RAWGPlaynitePlugin) | [spektor56](https://github.com/spektor56) | |
-| [Steam Store](https://github.com/JosefNemec/PlaynitePlugin-SteamStoreMetadata) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that gives you an option to download game information from Steam store even for games that are not imported from Steam. |
-| [SteamGridbDB](https://github.com/cooperate/SteamGridDBMetadata) | [cooperate](https://github.com/cooperate) | SteamGridDB Metadata is a provider for Playnite that leverages the SteamGridDB api to curate your artwork. |
+| [Steam Store](https://github.com/JosefNemec/PlaynitePlugin-SteamStoreMetadata) | [JosefNemec](https://github.com/JosefNemec) | | This is a Playnite plugin that gives you an option to download game information from Steam store even for games that are not imported from Steam. |
+| [SteamGridbDB](https://github.com/cooperate/SteamGridDBMetadata) | [cooperate](https://github.com/cooperate) | | SteamGridDB Metadata is a provider for Playnite that leverages the SteamGridDB api to curate your artwork. |
 | [VNDB](https://github.com/Mithnar/PlayniteVndb) | [Mithnar](https://github.com/Mithnar) |
 
 ## Generic
