@@ -12,9 +12,9 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 ## Libraries
 [Official Playnite forums](https://playnite.link/forum/forum-7.html)
 
-| Name | Author | Activity | Description |
-|:-----|:------:|:---------|:------------|
-| [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin) | [Lacro59](https://github.com/Lacro59) | ![Github Last Commit](https://img.shields.io/github/last-commit/Lacro59/playnite-indiegala-plugin) | The plugin "IndiegalaLibrary" get games library from Indiegala in Showcase, Bundles & Store. |
+| Name | Author | Description |
+|:-----|:------:|:------------|
+| [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin)  | [Lacro59](https://github.com/Lacro59)  | The plugin "IndiegalaLibrary" get games library from Indiegala in Showcase, Bundles & Store. <br/> ![Github Last Commit](https://img.shields.io/github/last-commit/Lacro59/playnite-indiegala-plugin)|
 | [Oculus](https://github.com/Shawson/Playnite-OculusLibrary) | [Shawson](https://github.com/Shawson) | ![Github Last Commit](https://img.shields.io/github/last-commit/Shawson/Playnite-OculusLibrary) | Plugin for Playnite to add support for importing games from the Oculus store. |
 | [Rockstar](https://github.com/JosefNemec/PlaynitePlugin-RockstarLibrary) | [JosefNemec](https://github.com/JosefNemec) | ![Github Last Commit](https://img.shields.io/github/last-commit/JosefNemec/PlaynitePlugin-RockstarLibrary) | This is a Playnite plugin that automatically imports games from Rockstar Games launcher.
 
