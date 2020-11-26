@@ -23,7 +23,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 
 | Name | Author | Activity | Description |
 |:-----|:------:|:---------|:------------|
-| [EmuMovies](https://github.com/spektor56/EmuMoviesPlaynitePlugin) | [spektor56](https://github.com/spektor56) | |
+| [EmuMovies](https://github.com/spektor56/EmuMoviesPlaynitePlugin) | [spektor56](https://github.com/spektor56) | ![Github Last Commit](https://img.shields.io/github/last-commit/spektor56/EmuMoviesPlaynitePlugin) |
 | [Launchbox](https://github.com/spektor56/LBGDBPlaynitePlugin) | [spektor56](https://github.com/spektor56) | |
 | [Metadatalocal](https://github.com/Lacro59/playnite-metadatalocal-plugin) | [Lacro59](https://github.com/Lacro59) | | This plugin gets localised game description from Steam, Origin, Epic Game Store & Windows Store. |
 | [RAWG](https://github.com/spektor56/RAWGPlaynitePlugin) | [spektor56](https://github.com/spektor56) | |
