@@ -40,6 +40,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [DescriptionEditor](https://github.com/Lacro59/playnite-descriptioneditor-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin can edit and preview the game description with some presets.
 | [Extensions Updater](https://github.com/erri120/Playnite.Extensions#extensions-updater) | [erri120](https://github.com/erri120) | This is a generic plugin which can check if your extension needs an update.
 | [GameActivity](https://github.com/Lacro59/playnite-gameactivity-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin creates datas for your game activy.
+| [Game Speak](https://github.com/joyrider3774/PlayniteGameSpeak) | [joyrider3774](https://github.com/joyrider3774) | Text to speech plugin for playnite, "speaking out" the game names and such. |
 | [Get Steam Cover Images](https://gist.github.com/bburky/464543d4c6662c66ad6088d06ced50ce) | [bburky](https://gist.github.com/bburky) | Replaces the cover image of the selected games with the Steam header image for the game. |
 | [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin gets How Long To Beat in application database. |
 | [Import Installed Discord Games](https://gist.github.com/bburky/43e666b2f6bb6db4c42b5ecd93f7af38) | [bburky](https://gist.github.com/bburky) | |
