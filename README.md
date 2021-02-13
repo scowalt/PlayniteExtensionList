@@ -36,6 +36,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 
 | Name | Author | Description |
 |:-----|:------:|:------------|
+| [AddLink](https://github.com/SlipperyJim/AddLink) | [SlipperyJim](https://github.com/SlipperyJim) | Helps you to add links to the Metacritic and IGDB entries for the games you have in Playnite.
 | [CheckLocalizations](https://github.com/Lacro59/playnite-checklocalizations-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin gets data on game localizations for show in Playnite.
 | [DescriptionEditor](https://github.com/Lacro59/playnite-descriptioneditor-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin can edit and preview the game description with some presets.
 | [Extensions Updater](https://github.com/erri120/Playnite.Extensions#extensions-updater) | [erri120](https://github.com/erri120) | This is a generic plugin which can check if your extension needs an update.
