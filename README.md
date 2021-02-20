@@ -65,6 +65,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 
 | Name | Author | Description | Screenshot |
 |:-----|:------:|:------------|:----------:|
+| [Azurenite](https://github.com/azuravian/playnite-theme-azurenite) | [azuravian](https://github.com/azuravian) | | ![Azurenite Screenshot](res/AzureniteGridView.jpg)
 | [Blupur](https://github.com/sevenns/Playnite-Blupur-Theme) | [sevenns](https://github.com/sevenns) | | ![Blupur screenshot](https://raw.githubusercontent.com/sevenns/Playnite-Blupur-Theme/master/Desktop/Blupur/preview.jpg)
 | [Classic Steam](https://playnite.link/forum/thread-299-post-1888.html) | [Xyifer12](https://gitlab.com/xyifer12) | A theme I built for myself because I like an older version of the Steam layout. | ![Classic Steam Screenshot](res/ClassicSteam.png)
 | [eMixedNite](https://playnite.link/forum/thread-337.html) | [eminaguil](https://playnite.link/forum/user-725.html) | | ![eMixedNite Animated Screenshots](res/eMixedNite.gif)
