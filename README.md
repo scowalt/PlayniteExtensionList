@@ -29,7 +29,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Metadatalocal](https://github.com/Lacro59/playnite-metadatalocal-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin gets localised game description from Steam, Origin, Epic Game Store & Windows Store. |
 | [RAWG](https://github.com/spektor56/RAWGPlaynitePlugin) | [spektor56](https://github.com/spektor56) | |
 | [Steam Store](https://github.com/JosefNemec/PlaynitePlugin-SteamStoreMetadata) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that gives you an option to download game information from Steam store even for games that are not imported from Steam. |
-| [SteamGridbDB](https://github.com/cooperate/SteamGridDBMetadata) | [cooperate](https://github.com/cooperate) | SteamGridDB Metadata is a provider for Playnite that leverages the SteamGridDB api to curate your artwork. |
+| [SteamGridDB](https://github.com/cooperate/SteamGridDBMetadata) | [cooperate](https://github.com/cooperate) | SteamGridDB Metadata is a provider for Playnite that leverages the SteamGridDB api to curate your artwork. |
 | [VNDB](https://github.com/Mithnar/PlayniteVndb) | [Mithnar](https://github.com/Mithnar) |
 
 ## Generic
