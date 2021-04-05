@@ -14,6 +14,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 
 | Name | Author | Description |
 |:-----|:------:|:------------|
+| [EmuLibrary](https://github.com/psychonic/Playnite-EmuLibrary) | [psychonic](https://github.com/psychonic) | EmuLibrary is an extension to treat one or more folders of ROMs/Disc images as a library from which you can "install" games. |
 | [IndieGala](https://github.com/Lacro59/playnite-indiegala-plugin) | [Lacro59](https://github.com/Lacro59) | The plugin "IndiegalaLibrary" get games library from Indiegala in Showcase, Bundles & Store. |
 | [Oculus](https://github.com/Shawson/Playnite-OculusLibrary) | [Shawson](https://github.com/Shawson) | Plugin for Playnite to add support for importing games from the Oculus store. |
 | [Rockstar](https://github.com/JosefNemec/PlaynitePlugin-RockstarLibrary) | [JosefNemec](https://github.com/JosefNemec) | This is a Playnite plugin that automatically imports games from Rockstar Games launcher.
