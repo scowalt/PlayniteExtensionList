@@ -47,6 +47,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Game Speak](https://github.com/joyrider3774/PlayniteGameSpeak) | [joyrider3774](https://github.com/joyrider3774) | Text to speech plugin for playnite, "speaking out" the game names and such. |
 | [Get Steam Cover Images](https://gist.github.com/bburky/464543d4c6662c66ad6088d06ced50ce) | [bburky](https://gist.github.com/bburky) | Replaces the cover image of the selected games with the Steam header image for the game. |
 | [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin gets How Long To Beat in application database. |
+| [HTML Exporter](https://github.com/joyrider3774/Playnite_html_exporter) | [joyrider3774](https://github.com/joyrider3774)  | This plugin exports your playnite game library to static html pages. |
 | [Import Installed Discord Games](https://gist.github.com/bburky/43e666b2f6bb6db4c42b5ecd93f7af38) | [bburky](https://gist.github.com/bburky) | |
 | [IsThereAnyDeal](https://github.com/Lacro59/playnite-isthereanydeal-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin get Is There Any Deal in application database from store wish list (Steam, GOG, Origin, Epic Game Store, Humble, Windows Store). |
 | [Is There Any Deal Collection Sync](https://gist.github.com/bburky/38c29a5fd8fbf2fc72ef77d553d09c6a) | [bburky](https://gist.github.com/bburky) | |
