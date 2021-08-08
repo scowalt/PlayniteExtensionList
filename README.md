@@ -44,6 +44,7 @@ List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder 
 | [Extensions Updater](https://github.com/erri120/Playnite.Extensions#extensions-updater) | [erri120](https://github.com/erri120) | This is a generic plugin which can check if your extension needs an update.
 | [GameActivity](https://github.com/Lacro59/playnite-gameactivity-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin creates datas for your game activy.
 | [Game Media Tools](https://playnite.link/forum/thread-313.html) | [darklinkpower](https://github.com/darklinkpower) | Batch check games with missing media and other functions
+| [Game Pass Catalog Browser](https://playnite.link/forum/thread-716.html) | [darklinkpower](https://github.com/darklinkpower) | Browse and add games from Game Pass Catalog
 | [Game Speak](https://github.com/joyrider3774/PlayniteGameSpeak) | [joyrider3774](https://github.com/joyrider3774) | Text to speech plugin for playnite, "speaking out" the game names and such. |
 | [Get Steam Cover Images](https://gist.github.com/bburky/464543d4c6662c66ad6088d06ced50ce) | [bburky](https://gist.github.com/bburky) | Replaces the cover image of the selected games with the Steam header image for the game. |
 | [HowLongToBeat](https://github.com/Lacro59/playnite-howlongtobeat-plugin) | [Lacro59](https://github.com/Lacro59) | This plugin gets How Long To Beat in application database. |
