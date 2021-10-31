@@ -1,3 +1,8 @@
+# OBSOLETE
+Playnite 9 is now out! This version includes a built-in add-on, making this repository unecessary.
+
+The below list will quickly fall out-of-date, and the extensions may only work for Playnite 8.
+
 # Playnite Extension List
 List of [Playnite](https://playnite.link/) Extensions and Themes. A placeholder until there is a [more robust solution](https://github.com/JosefNemec/Playnite/issues/593). Please help expand this list by [contributing](https://github.com/scowalt/PlayniteExtensionList/pulls)!
 
